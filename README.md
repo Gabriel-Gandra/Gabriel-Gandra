@@ -41,7 +41,7 @@
 
 <img height="20" alt="GIF" src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 <div align="justify">
-Minhas habilidades incluem programação em C, Java e Javascript, além de trabalhar com bancos de dados MySQL e MongoDB. Destaco-me pela eficiência no desenvolvimento em C, pela construção de soluções robustas com microsserviços em Java com Spring e pela proficiência em Javascript para aplicações web modernas. Já trabalhei com suporte técnico, oferecendo assistência qualificada aos usuários, resolvendo problemas relacionados à rede e configurações de sistemas operacionais Linux e Windows, oferecendo suporte na instalação e manutenção de software e hardware. Também já trabalhei com alguns sistemas específicos como SAP, WMS, Fluig e Tiflux. Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades. Vamos construir algo incrível juntos?
+Minhas habilidades incluem programação em C, python e Javascript. Destaco-me pela eficiência no desenvolvimento em C, pela construção de soluções robustas com microsserviços em Java com Spring e pela proficiência em Javascript para aplicações web modernas. Já trabalhei com suporte técnico, oferecendo assistência qualificada aos usuários, resolvendo problemas relacionados à rede e configurações de sistemas operacionais Linux e Windows, oferecendo suporte na instalação e manutenção de software e hardware. Também já trabalhei com alguns sistemas específicos como SAP, WMS, Fluig e Tiflux. Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades. Vamos construir algo incrível juntos?
 </div>
 
 -----
@@ -56,11 +56,11 @@ Minhas habilidades incluem programação em C, Java e Javascript, além de traba
 <div align="justify">
 <p>
 - :necktie: &nbsp; Trabalho como Assistente de TI há 1 ano.<br />
-- :man_student: &nbsp; Sou estudante de ADS - Análise e Desenvolvimento de Sistemas.<br />
+- :man_student: &nbsp; Sou estudante de Ciencias da Computação.<br />
 - :briefcase: &nbsp; Tenho interesse em vagas para Dev Jr.<br />
 - :soccer:&nbsp; Sou Atleticano, lógico! 🐓<br />
 - :airplane: &nbsp; Adoro viajar e conhecer novos lugares.<br />
-- :video_game: &nbsp; Gosto de jogar LOL nas horas vagas.<br />
+- :video_game: &nbsp; Gosto de jogar LOL e CS nas horas vagas.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:gabrielg2gandra@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 - :calendar: &nbsp; Essa é minha <a href="https://calendly.com/Gabriel-Gandra/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
