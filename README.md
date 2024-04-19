@@ -34,7 +34,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Gabriel</code>, tenho 19 anos, moro em BH e sou Dev. Atualmente trabalho como <code>assistente de TI</code> e estou no 1° período de Ciencias da Computação da <a href="https://newtonpaiva.br/" target="_blank">Pontifícia Universidade Católica de Minas Gerais</a></i>👨🏻‍💻<br />
+<i><b>Olá</b> :wave:, sou o <code>Gabriel</code>, tenho 19 anos, moro em BH e sou Dev. Atualmente trabalho como <code>assistente de TI</code> e estou no 1° período de Ciencias da Computação da <a href="https://www.pucminas.br/destaques/Paginas/default.aspx" target="_blank">Pontifícia Universidade Católica de Minas Gerais</a></i>👨🏻‍💻<br />
 </div>
 
 -----
