@@ -12,9 +12,9 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/Gabriel-Gandra" target="_blank"><img src="https://github.com/Gabriel-Gandra/Gabriel-Gandra" width="50px" height="50px"/></a>
+<td><a href="https://github.com/Gabriel-Gandra" target="_blank"><img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/github.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:davidson.afg@gmail.com" target="_blank"><img src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/gmail.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:gabrielg2gandra@gmail.com" target="_blank"><img src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/gmail.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://wa.me/5531992259540" target="_blank"><img src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/wpp.png?raw=true" width="50px" height="50px"/></a>
 </td>
