@@ -18,7 +18,7 @@
 </td>
 <td><a href="https://wa.me/5531992259540" target="_blank"><img src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/davidson_faria/" target="_blank"><img src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/gabrielgandra_/" target="_blank"><img src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://www.linkedin.com/in/Gabriel-Gandra/" target="_blank"><img src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
