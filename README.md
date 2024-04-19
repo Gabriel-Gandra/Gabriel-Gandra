@@ -14,17 +14,17 @@
 <tr>
 <td><a href="https://github.com/Gabriel-Gandra" target="_blank"><img src="https://github.com/Gabriel-Gandra/Gabriel-Gandra" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:davidson.afg@gmail.com" target="_blank"><img src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/gmail2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:davidson.afg@gmail.com" target="_blank"><img src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/gmail.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531992259540" target="_blank"><img src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5531992259540" target="_blank"><img src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/wpp.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/gabrielgandra_/" target="_blank"><img src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/gabrielgandra_/" target="_blank"><img src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/insta.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/Gabriel-Gandra/" target="_blank"><img src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/Gabriel-Gandra/" target="_blank"><img src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://discordapp.com/users/287784703963168768" target="_blank"><img src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://discordapp.com/users/287784703963168768" target="_blank"><img src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/discord.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://calendly.com/Gabriel-Gandra/" target="_blank"><img src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://calendly.com/Gabriel-Gandra/" target="_blank"><img src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/calendar.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
