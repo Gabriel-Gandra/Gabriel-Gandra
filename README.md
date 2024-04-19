@@ -12,7 +12,7 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/Gabriel-Gandra" target="_blank"><img src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/github2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/Gabriel-Gandra" target="_blank"><img src="https://github.com/Gabriel-Gandra/Gabriel-Gandra" width="50px" height="50px"/></a>
 </td>
 <td><a href="mailto:davidson.afg@gmail.com" target="_blank"><img src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/gmail2.png?raw=true" width="50px" height="50px"/></a>
 </td>
