@@ -1,7 +1,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/dev2.gif?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/header.gif?raw=true"/>
 </div>
 
 -----
