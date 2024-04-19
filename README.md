@@ -63,7 +63,6 @@ Minhas habilidades incluem programação em C, python e Javascript. Destaco-me p
 - :video_game: &nbsp; Gosto de jogar LOL e CS nas horas vagas.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:gabrielg2gandra@gmail.com" target="_blank">e-mail</a> pessoal.<br />
-- :calendar: &nbsp; Essa é minha <a href="https://calendly.com/Gabriel-Gandra/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
 </p>
 </div>
 </div>
