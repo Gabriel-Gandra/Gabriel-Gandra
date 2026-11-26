@@ -3,15 +3,15 @@
 <img src="./assets/header.svg" alt="Gabriel Gandra — Analista de Infraestrutura de TI" width="100%"/>
 
 <a href="https://gabrielgandra.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=3B82F6&center=true&vCenter=true&width=720&lines=Analista+de+Infraestrutura+de+TI+%40+JDC;Active+Directory+%C2%B7+Azure+%C2%B7+Microsoft+Intune;Automa%C3%A7%C3%A3o+com+scripts+e+pacotes+.bat+%2F+.msi;Sites%2C+SaaS+e+jogos+no+Roblox;Suporte+bil%C3%ADngue+PT+%2F+ES" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=3B82F6&center=true&vCenter=true&width=900&lines=Analista+de+Infraestrutura+de+TI+%40+JDC;Active+Directory+%C2%B7+Azure+%C2%B7+Microsoft+Intune;Automa%C3%A7%C3%A3o+com+scripts+e+pacotes+.bat+%2F+.msi;Sites%2C+SaaS+e+jogos+no+Roblox;Suporte+bil%C3%ADngue+PT+%2F+ES" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<a href="https://gabrielgandra.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-gabrielgandra.vercel.app-3B82F6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0b1a33" alt="Portfólio"/></a>
-<a href="mailto:contatogabrielgandra@gmail.com"><img src="https://img.shields.io/badge/E--mail-contato-22D3EE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1a33" alt="E-mail"/></a>
-<a href="https://wa.me/5531997642122"><img src="https://img.shields.io/badge/WhatsApp-conversar-22C55E?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0b1a33" alt="WhatsApp"/></a>
-<a href="https://gabrielgandra.vercel.app/assets/Curriculo_Gabriel_Gandra.pdf"><img src="https://img.shields.io/badge/Curr%C3%ADculo-PDF-8B5CF6?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0b1a33" alt="Currículo em PDF"/></a>
+<a href="https://gabrielgandra.vercel.app"><img src="./assets/btn-portfolio.svg" alt="Portfólio" height="44"/></a>
+<a href="mailto:contatogabrielgandra@gmail.com"><img src="./assets/btn-email.svg" alt="E-mail" height="44"/></a>
+<a href="https://wa.me/5531997642122"><img src="./assets/btn-whatsapp.svg" alt="WhatsApp" height="44"/></a>
+<a href="https://gabrielgandra.vercel.app/assets/Curriculo_Gabriel_Gandra.pdf"><img src="./assets/btn-cv.svg" alt="Currículo em PDF" height="44"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=Gabriel-Gandra&label=visitas+no+perfil&color=3b82f6&style=flat-square" alt="Visitas no perfil"/>
 
@@ -65,18 +65,7 @@ idiomas:    Português (nativo) · Espanhol (intermediário-avançado) · Inglê
 
 <div align="center">
 
-**Infraestrutura, identidade e ITSM**
-
-<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logoColor=white" alt="Active Directory"/>
-<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logoColor=white" alt="Azure"/>
-<img src="https://img.shields.io/badge/Microsoft_Intune-1E6FD9?style=for-the-badge&logoColor=white" alt="Intune"/>
-<img src="https://img.shields.io/badge/Windows-0F6CBD?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows"/>
-<img src="https://img.shields.io/badge/Linux-1F2937?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
-<img src="https://img.shields.io/badge/BMC_Helix_ITSM-FF6A00?style=for-the-badge&logoColor=white" alt="BMC Helix ITSM"/>
-<img src="https://img.shields.io/badge/OCS_Inventory-4B5563?style=for-the-badge&logoColor=white" alt="OCS Inventory"/>
-<img src="https://img.shields.io/badge/Microsoft_Teams-5B5FC7?style=for-the-badge&logoColor=white" alt="Microsoft Teams"/>
-<img src="https://img.shields.io/badge/Oracle-C74634?style=for-the-badge&logoColor=white" alt="Oracle"/>
-<img src="https://img.shields.io/badge/Scripts_.bat_%2F_.msi-111827?style=for-the-badge&logo=gnubash&logoColor=white" alt="Scripts .bat / .msi"/>
+<img src="./assets/stack.svg" alt="Competências em infraestrutura, identidade, ITSM e automação" width="100%"/>
 
 <br/><br/>
 
@@ -102,7 +91,7 @@ Fora do suporte, crio sites, produtos e jogos. Alguns sites foram vendidos para 
 **Produto próprio · SaaS**<br/>
 Sistema para barbearias: agendamento, programa de fidelidade, cupons, mapa interativo e landing page.
 
-<a href="https://www.barbersapp.com.br/"><img src="https://img.shields.io/badge/abrir_site-barbersapp.com.br-3B82F6?style=flat-square&labelColor=0b1a33" alt="BarbersApp"/></a>
+<a href="https://www.barbersapp.com.br/"><img src="./assets/btn-site.svg" alt="Abrir BarbersApp" height="36"/></a>
 
 </td>
 <td width="33%" valign="top">
@@ -111,7 +100,7 @@ Sistema para barbearias: agendamento, programa de fidelidade, cupons, mapa inter
 **Produto próprio · Reservas**<br/>
 Reserva de mesas em segundos para restaurantes, com organização das mesas e menos faltas (no‑show).
 
-<a href="https://www.mesarapida.com.br/"><img src="https://img.shields.io/badge/abrir_site-mesarapida.com.br-3B82F6?style=flat-square&labelColor=0b1a33" alt="MesaRápida"/></a>
+<a href="https://www.mesarapida.com.br/"><img src="./assets/btn-site.svg" alt="Abrir MesaRápida" height="36"/></a>
 
 </td>
 <td width="33%" valign="top">
@@ -120,7 +109,7 @@ Reserva de mesas em segundos para restaurantes, com organização das mesas e me
 **Produto próprio · Casamentos**<br/>
 Organização do casamento a dois: convidados, orçamento, fornecedores e site com lista de presentes e RSVP.
 
-<a href="https://diariodenoivos.com.br/"><img src="https://img.shields.io/badge/abrir_site-diariodenoivos.com.br-3B82F6?style=flat-square&labelColor=0b1a33" alt="Diário de Noivos"/></a>
+<a href="https://diariodenoivos.com.br/"><img src="./assets/btn-site.svg" alt="Abrir Diário de Noivos" height="36"/></a>
 
 </td>
 </tr>
@@ -131,7 +120,7 @@ Organização do casamento a dois: convidados, orçamento, fornecedores e site c
 **Cliente · Site oficial**<br/>
 Site oficial de cantor e compositor de BH, com músicas, clipes e contratação de shows.
 
-<a href="https://www.aldringandra.com.br/"><img src="https://img.shields.io/badge/abrir_site-aldringandra.com.br-22D3EE?style=flat-square&labelColor=0b1a33" alt="Aldrin Gandra"/></a>
+<a href="https://www.aldringandra.com.br/"><img src="./assets/btn-site.svg" alt="Abrir Aldrin Gandra" height="36"/></a>
 
 </td>
 <td width="33%" valign="top">
@@ -140,7 +129,7 @@ Site oficial de cantor e compositor de BH, com músicas, clipes e contratação 
 **Podcast**<br/>
 Site do podcast com os episódios do YouTube, cortes para redes sociais e página de parcerias para marcas.
 
-<a href="http://gandracast.com.br/"><img src="https://img.shields.io/badge/abrir_site-gandracast.com.br-22D3EE?style=flat-square&labelColor=0b1a33" alt="GandraCast"/></a>
+<a href="http://gandracast.com.br/"><img src="./assets/btn-site.svg" alt="Abrir GandraCast" height="36"/></a>
 
 </td>
 <td width="33%" valign="top">
@@ -149,7 +138,7 @@ Site do podcast com os episódios do YouTube, cortes para redes sociais e págin
 **Cliente · Educação**<br/>
 Plataforma completa de aprendizagem on‑line para uma escola.
 
-<a href="http://goafter.com.br/"><img src="https://img.shields.io/badge/abrir_site-goafter.com.br-22D3EE?style=flat-square&labelColor=0b1a33" alt="Go After"/></a>
+<a href="http://goafter.com.br/"><img src="./assets/btn-site.svg" alt="Abrir Go After" height="36"/></a>
 
 </td>
 </tr>
@@ -161,9 +150,9 @@ Plataforma completa de aprendizagem on‑line para uma escola.
 
 | Jogo | Gênero | |
 |---|---|---|
-| **Caos Burger** | Terror · de dia um hipermercado na neblina, à noite o drive‑thru | [Jogar](https://www.roblox.com/pt/games/82373635262098/Caos-Burger) |
-| **Hungry Lake** | Pesca e terror · 1 a 6 jogadores | [Jogar](https://www.roblox.com/pt/games/73925819065394/Hungry-Lake-Horror-Fishing) |
-| **Echoes of the Deep** | Sobrevivência · esquadrão de 1 a 4 em minas abandonadas | [Jogar](https://www.roblox.com/pt/games/73423319870769/Echoes-of-the-Deep-Abyss-Chronicles) |
+| **Caos Burger** | Terror · de dia um hipermercado na neblina, à noite o drive‑thru | <a href="https://www.roblox.com/pt/games/82373635262098/Caos-Burger"><img src="./assets/btn-play.svg" alt="Jogar no Roblox" height="32"/></a> |
+| **Hungry Lake** | Pesca e terror · 1 a 6 jogadores | <a href="https://www.roblox.com/pt/games/73925819065394/Hungry-Lake-Horror-Fishing"><img src="./assets/btn-play.svg" alt="Jogar no Roblox" height="32"/></a> |
+| **Echoes of the Deep** | Sobrevivência · esquadrão de 1 a 4 em minas abandonadas | <a href="https://www.roblox.com/pt/games/73423319870769/Echoes-of-the-Deep-Abyss-Chronicles"><img src="./assets/btn-play.svg" alt="Jogar no Roblox" height="32"/></a> |
 
 </details>
 
@@ -196,8 +185,9 @@ Plataforma completa de aprendizagem on‑line para uma escola.
 
 **Tem uma vaga ou um projeto?** Vamos conversar.
 
-<a href="mailto:contatogabrielgandra@gmail.com"><img src="https://img.shields.io/badge/contatogabrielgandra%40gmail.com-0b1a33?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="E-mail"/></a>
-<a href="https://gabrielgandra.vercel.app"><img src="https://img.shields.io/badge/gabrielgandra.vercel.app-0b1a33?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/></a>
+<a href="mailto:contatogabrielgandra@gmail.com"><img src="./assets/btn-email.svg" alt="E-mail" height="44"/></a>
+<a href="https://wa.me/5531997642122"><img src="./assets/btn-whatsapp.svg" alt="WhatsApp" height="44"/></a>
+<a href="https://gabrielgandra.vercel.app"><img src="./assets/btn-portfolio.svg" alt="Portfólio" height="44"/></a>
 
 <img src="./assets/footer.svg" alt="" width="100%"/>
 

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="106" height="44" viewBox="0 0 106 44" role="img" aria-label="E-mail">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f2550"/><stop offset="1" stop-color="#0a1730"/></linearGradient>
+    <linearGradient id="s" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".14"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <clipPath id="c"><rect x="1" y="1" width="104" height="42" rx="21"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="104" height="42" rx="21" fill="url(#g)" stroke="#22d3ee" stroke-opacity=".75" stroke-width="1.5"/>
+  <g clip-path="url(#c)"><rect x="-80" y="0" width="60" height="44" fill="url(#s)" transform="skewX(-20)"><animate attributeName="x" values="-80;186" dur="3.2s" begin="0.4s" repeatCount="indefinite"/></rect></g>
+  <circle cx="24" cy="22" r="13" fill="#22d3ee" fill-opacity=".16"/>
+  <g transform="translate(24 22)" color="#22d3ee"><rect x="-8" y="-6" width="16" height="12" rx="2" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M-7 -4.5L0 1L7 -4.5" fill="none" stroke="currentColor" stroke-width="1.6"/></g>
+  <text x="46" y="27.4" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#e6efff">E-mail</text>
+</svg>
