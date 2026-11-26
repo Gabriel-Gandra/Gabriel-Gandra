@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="3+ anos em TI corporativa · Bilíngue PT/ES · 6 sites e produtos no ar · 3 jogos publicados no Roblox">
+  <defs>
+    <linearGradient id="cardbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1f45"/>
+      <stop offset="1" stop-color="#081329"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.5" stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#fff" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="c1"><rect x="0" y="5" width="285" height="160" rx="18"/></clipPath>
+    <clipPath id="c2"><rect x="305" y="5" width="285" height="160" rx="18"/></clipPath>
+    <clipPath id="c3"><rect x="610" y="5" width="285" height="160" rx="18"/></clipPath>
+    <clipPath id="c4"><rect x="915" y="5" width="285" height="160" rx="18"/></clipPath>
+    <style>
+      text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+      .card { opacity: 0; animation: rise .8s cubic-bezier(.2,.8,.2,1) forwards; }
+      @keyframes rise { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: translateY(0); } }
+      .a1 { animation-delay: .1s } .a2 { animation-delay: .3s } .a3 { animation-delay: .5s } .a4 { animation-delay: .7s }
+      .big { font-size: 40px; font-weight: 800; fill: #ffffff; letter-spacing: -1px; }
+      .lbl { font-size: 15px; fill: #9fb4d6; }
+      .ico { font-size: 13px; font-weight: 700; fill: #7cc4ff; letter-spacing: 2px; }
+      .frame { fill: url(#cardbg); stroke: #2f5fb3; stroke-opacity: .45; stroke-width: 1.5; }
+    </style>
+  </defs>
+
+  <g class="card a1">
+    <rect class="frame" x="0" y="5" width="285" height="160" rx="18"/>
+    <g clip-path="url(#c1)">
+      <rect x="0" y="5" width="285" height="4" fill="url(#bar)"/>
+      <rect x="-200" y="5" width="140" height="160" fill="url(#shine)"><animate attributeName="x" values="-200;420" dur="4s" begin="1s" repeatCount="indefinite"/></rect>
+    </g>
+    <text x="28" y="44" class="ico">EXPERIÊNCIA</text>
+    <text x="28" y="98" class="big">3+ anos</text>
+    <text x="28" y="132" class="lbl">em TI corporativa, numa</text>
+    <text x="28" y="152" class="lbl">multinacional de segurança</text>
+  </g>
+
+  <g class="card a2">
+    <rect class="frame" x="305" y="5" width="285" height="160" rx="18"/>
+    <g clip-path="url(#c2)">
+      <rect x="305" y="5" width="285" height="4" fill="url(#bar)"/>
+      <rect x="105" y="5" width="140" height="160" fill="url(#shine)"><animate attributeName="x" values="105;725" dur="4s" begin="1.5s" repeatCount="indefinite"/></rect>
+    </g>
+    <text x="333" y="44" class="ico">IDIOMAS</text>
+    <text x="333" y="98" class="big">Bilíngue</text>
+    <text x="333" y="132" class="lbl">suporte em espanhol para</text>
+    <text x="333" y="152" class="lbl">unidades na Espanha</text>
+  </g>
+
+  <g class="card a3">
+    <rect class="frame" x="610" y="5" width="285" height="160" rx="18"/>
+    <g clip-path="url(#c3)">
+      <rect x="610" y="5" width="285" height="4" fill="url(#bar)"/>
+      <rect x="410" y="5" width="140" height="160" fill="url(#shine)"><animate attributeName="x" values="410;1030" dur="4s" begin="2s" repeatCount="indefinite"/></rect>
+    </g>
+    <text x="638" y="44" class="ico">DESENVOLVIMENTO</text>
+    <text x="638" y="98" class="big">6 projetos</text>
+    <text x="638" y="132" class="lbl">sites e produtos no ar,</text>
+    <text x="638" y="152" class="lbl">para clientes e próprios</text>
+  </g>
+
+  <g class="card a4">
+    <rect class="frame" x="915" y="5" width="285" height="160" rx="18"/>
+    <g clip-path="url(#c4)">
+      <rect x="915" y="5" width="285" height="4" fill="url(#bar)"/>
+      <rect x="715" y="5" width="140" height="160" fill="url(#shine)"><animate attributeName="x" values="715;1335" dur="4s" begin="2.5s" repeatCount="indefinite"/></rect>
+    </g>
+    <text x="943" y="44" class="ico">GAME DEV</text>
+    <text x="943" y="98" class="big">3 jogos</text>
+    <text x="943" y="132" class="lbl">multijogador publicados</text>
+    <text x="943" y="152" class="lbl">no Roblox</text>
+  </g>
+</svg>

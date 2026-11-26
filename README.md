@@ -1,201 +1,204 @@
------
+<div align="center">
 
-<div>
-<img align="center" alt="Header" src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/header.png?raw=true"/>
+<img src="./assets/header.svg" alt="Gabriel Gandra — Analista de Infraestrutura de TI" width="100%"/>
+
+<a href="https://gabrielgandra.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=3B82F6&center=true&vCenter=true&width=720&lines=Analista+de+Infraestrutura+de+TI+%40+JDC;Active+Directory+%C2%B7+Azure+%C2%B7+Microsoft+Intune;Automa%C3%A7%C3%A3o+com+scripts+e+pacotes+.bat+%2F+.msi;Sites%2C+SaaS+e+jogos+no+Roblox;Suporte+bil%C3%ADngue+PT+%2F+ES" alt="Typing SVG"/>
+</a>
+
+<br/>
+
+<a href="https://gabrielgandra.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-gabrielgandra.vercel.app-3B82F6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0b1a33" alt="Portfólio"/></a>
+<a href="mailto:contatogabrielgandra@gmail.com"><img src="https://img.shields.io/badge/E--mail-contato-22D3EE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1a33" alt="E-mail"/></a>
+<a href="https://wa.me/5531997642122"><img src="https://img.shields.io/badge/WhatsApp-conversar-22C55E?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0b1a33" alt="WhatsApp"/></a>
+<a href="https://gabrielgandra.vercel.app/assets/Curriculo_Gabriel_Gandra.pdf"><img src="https://img.shields.io/badge/Curr%C3%ADculo-PDF-8B5CF6?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0b1a33" alt="Currículo em PDF"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=Gabriel-Gandra&label=visitas+no+perfil&color=3b82f6&style=flat-square" alt="Visitas no perfil"/>
+
 </div>
 
------
+<br/>
+
+## 👋 Sobre mim
+
+Sou o **Gabriel**, tenho **22 anos**, moro em **Belo Horizonte** e trabalho como **Analista de Infraestrutura de TI Jr. na JDC Consultoria em Informática**, alocado na **Prosegur**, onde estou há mais de 3 anos. Comecei como assistente de suporte em 2023 e cresci até a infraestrutura.
+
+No dia a dia, administro **identidades e dispositivos** com Active Directory, Azure e Microsoft Intune, cuido do ciclo de vida dos equipamentos e atendo usuários em **português e espanhol**, incluindo as áreas da Prosegur na Espanha. Fora do suporte, escrevo **automações**, empacoto aplicativos em **.bat / .msi** e desenvolvo **sites, sistemas e jogos**.
+
+```yaml
+agora:      Analista de Infraestrutura Jr. · JDC Consultoria (Prosegur)
+estudando:  Bacharelado em Ciência da Computação · UniBH (2025 – 2027/28)
+foco:       infraestrutura, redes, cloud e desenvolvimento
+idiomas:    Português (nativo) · Espanhol (intermediário-avançado) · Inglês (intermediário)
+```
 
 <div align="center">
+  <img src="./assets/highlights.svg" alt="Destaques" width="100%"/>
+</div>
+
+<br/>
+
+## 🧭 Trajetória
+
+<div align="center">
+  <img src="./assets/timeline.svg" alt="Trajetória profissional" width="100%"/>
+</div>
+
+<details>
+<summary><b>Ver o que faço no cargo atual</b></summary>
+<br/>
+
+**Analista de Infraestrutura Jr.** · JDC Consultoria em Informática · alocado na Prosegur · *06/2025 – atual*
+
+- Administro contas, grupos, dispositivos e políticas com **Active Directory, Azure e Microsoft Intune**, incluindo licenças, pastas compartilhadas e acesso ao Wi‑Fi corporativo.
+- Crio **scripts de automação** e empacoto a instalação de aplicativos complexos em **.bat e .msi**; também desenvolvo sites e aplicativos internos que reduzem tarefas manuais e o tempo de atendimento.
+- Presto **suporte técnico em espanhol** para áreas da Prosegur na Espanha.
+- Conduzo projetos de **renovação do parque**: atualização de máquinas, desativação de equipamentos, formatação e migração de dados.
+- Gerencio o **ciclo de vida dos ativos** e escrevo **manuais operacionais** para a equipe.
+- Atendo usuários via Teams, telefone, presencialmente e pelo **BMC Helix ITSM**; instalo softwares e impressoras Zebra, Lexmark e matriciais.
+
+</details>
+
+<br/>
+
+## 🛠️ Stack e ferramentas
+
+<div align="center">
+
+**Infraestrutura, identidade e ITSM**
+
+<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logoColor=white" alt="Active Directory"/>
+<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logoColor=white" alt="Azure"/>
+<img src="https://img.shields.io/badge/Microsoft_Intune-1E6FD9?style=for-the-badge&logoColor=white" alt="Intune"/>
+<img src="https://img.shields.io/badge/Windows-0F6CBD?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows"/>
+<img src="https://img.shields.io/badge/Linux-1F2937?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+<img src="https://img.shields.io/badge/BMC_Helix_ITSM-FF6A00?style=for-the-badge&logoColor=white" alt="BMC Helix ITSM"/>
+<img src="https://img.shields.io/badge/OCS_Inventory-4B5563?style=for-the-badge&logoColor=white" alt="OCS Inventory"/>
+<img src="https://img.shields.io/badge/Microsoft_Teams-5B5FC7?style=for-the-badge&logoColor=white" alt="Microsoft Teams"/>
+<img src="https://img.shields.io/badge/Oracle-C74634?style=for-the-badge&logoColor=white" alt="Oracle"/>
+<img src="https://img.shields.io/badge/Scripts_.bat_%2F_.msi-111827?style=for-the-badge&logo=gnubash&logoColor=white" alt="Scripts .bat / .msi"/>
+
+<br/><br/>
+
+**Desenvolvimento**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,tailwind,c,cpp,mysql,supabase,vercel,git,github,vscode&perline=15" alt="Linguagens e ferramentas"/>
+</a>
+
+</div>
+
+<br/>
+
+## 🚀 Projetos
+
+Fora do suporte, crio sites, produtos e jogos. Alguns sites foram vendidos para clientes; outros são projetos meus. Todos estão no ar 👇
+
 <table>
 <tr>
- <td align="center" colspan="11"></td>
-</tr> 
-<tr>
-<td><a href="https://github.com/Gabriel-Gandra" target="_blank"><img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/github.png?raw=true" width="50px" height="50px"/></a>
+<td width="33%" valign="top">
+
+### 💈 BarbersApp
+**Produto próprio · SaaS**<br/>
+Sistema para barbearias: agendamento, programa de fidelidade, cupons, mapa interativo e landing page.
+
+<a href="https://www.barbersapp.com.br/"><img src="https://img.shields.io/badge/abrir_site-barbersapp.com.br-3B82F6?style=flat-square&labelColor=0b1a33" alt="BarbersApp"/></a>
+
 </td>
-<td><a href="mailto:gabrielg2gandra@gmail.com" target="_blank"><img src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/gmail.png?raw=true" width="50px" height="50px"/></a>
+<td width="33%" valign="top">
+
+### 🍽️ MesaRápida
+**Produto próprio · Reservas**<br/>
+Reserva de mesas em segundos para restaurantes, com organização das mesas e menos faltas (no‑show).
+
+<a href="https://www.mesarapida.com.br/"><img src="https://img.shields.io/badge/abrir_site-mesarapida.com.br-3B82F6?style=flat-square&labelColor=0b1a33" alt="MesaRápida"/></a>
+
 </td>
-<td><a href="https://wa.me/5531992259540" target="_blank"><img src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/wpp.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.instagram.com/gabrielgandra_/" target="_blank"><img src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/insta.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.linkedin.com/in/Gabriel-Gandra/" target="_blank"><img src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://discordapp.com/users/287784703963168768" target="_blank"><img src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/discord.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://calendly.com/Gabriel-Gandra/" target="_blank"><img src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/calendar.png?raw=true" width="50px" height="50px"/></a>
+<td width="33%" valign="top">
+
+### 💍 Diário de Noivos
+**Produto próprio · Casamentos**<br/>
+Organização do casamento a dois: convidados, orçamento, fornecedores e site com lista de presentes e RSVP.
+
+<a href="https://diariodenoivos.com.br/"><img src="https://img.shields.io/badge/abrir_site-diariodenoivos.com.br-3B82F6?style=flat-square&labelColor=0b1a33" alt="Diário de Noivos"/></a>
+
 </td>
 </tr>
 <tr>
- <td align="center" colspan="11"></td>
-</tr> 
+<td width="33%" valign="top">
+
+### 🎤 Aldrin Gandra
+**Cliente · Site oficial**<br/>
+Site oficial de cantor e compositor de BH, com músicas, clipes e contratação de shows.
+
+<a href="https://www.aldringandra.com.br/"><img src="https://img.shields.io/badge/abrir_site-aldringandra.com.br-22D3EE?style=flat-square&labelColor=0b1a33" alt="Aldrin Gandra"/></a>
+
+</td>
+<td width="33%" valign="top">
+
+### 🎙️ GandraCast
+**Podcast**<br/>
+Site do podcast com os episódios do YouTube, cortes para redes sociais e página de parcerias para marcas.
+
+<a href="http://gandracast.com.br/"><img src="https://img.shields.io/badge/abrir_site-gandracast.com.br-22D3EE?style=flat-square&labelColor=0b1a33" alt="GandraCast"/></a>
+
+</td>
+<td width="33%" valign="top">
+
+### 🎓 Go After
+**Cliente · Educação**<br/>
+Plataforma completa de aprendizagem on‑line para uma escola.
+
+<a href="http://goafter.com.br/"><img src="https://img.shields.io/badge/abrir_site-goafter.com.br-22D3EE?style=flat-square&labelColor=0b1a33" alt="Go After"/></a>
+
+</td>
+</tr>
 </table>
 
-</div>
-<div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Gabriel</code>, tenho 19 anos, moro em BH e sou Dev. Atualmente trabalho como <code>assistente de TI</code> e estou no 1° período de Ciencias da Computação da <a href="https://www.pucminas.br/destaques/Paginas/default.aspx" target="_blank">Pontifícia Universidade Católica de Minas Gerais</a></i>👨🏻‍💻<br />
-</div>
-
------
-
-<img height="20" alt="GIF" src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
-<div align="justify">
-Minhas habilidades incluem programação em C, python e Javascript. Destaco-me pela eficiência no desenvolvimento em C, pela construção de soluções robustas com microsserviços em Java com Spring e pela proficiência em Javascript para aplicações web modernas. Já trabalhei com suporte técnico, oferecendo assistência qualificada aos usuários, resolvendo problemas relacionados à rede e configurações de sistemas operacionais Linux e Windows, oferecendo suporte na instalação e manutenção de software e hardware. Também já trabalhei com alguns sistemas específicos como SAP, WMS, Fluig e Tiflux. Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades. Vamos construir algo incrível juntos?
-</div>
-
------
-
-<div>
-<div>
-<img align="right" alt="GIF" src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/dev.gif?raw=true" width="300px" height="300px"/>
-</div>
-
-<img height="20" alt="GIF" src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
-
-<div align="justify">
-<p>
-- :necktie: &nbsp; Trabalho como Assistente de TI há 1 ano.<br />
-- :man_student: &nbsp; Sou estudante de Ciencias da Computação.<br />
-- :briefcase: &nbsp; Tenho interesse em vagas para Dev Jr.<br />
-- :soccer:&nbsp; Sou Atleticano, lógico! 🐓<br />
-- :airplane: &nbsp; Adoro viajar e conhecer novos lugares.<br />
-- :video_game: &nbsp; Gosto de jogar LOL e CS nas horas vagas.<br />
-- :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
-- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:gabrielg2gandra@gmail.com" target="_blank">e-mail</a> pessoal.<br />
-</p>
-</div>
-</div>
-
------
-
-<div>
-
-<img height="20" alt="GIF" src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
-
-<code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/python.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/c.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/cpp.svg"/></a></code> 
-&nbsp;
-<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/java.png"/></a></code>
-&nbsp; 
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/html.svg"/></a></code>
-&nbsp; 
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/css.svg"/></a></code>
-&nbsp; 
-<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/js.png"/></a></code>
-&nbsp; 
-<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/react.png"/></a></code>
-&nbsp; 
-<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/mysql.png"/></a></code>
-&nbsp; 
-<code><a href="https://www.mongodb.com/pt-br" target="_blank"><img width="32" height="32" src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/mongodb.png"/></a></code>
-&nbsp; 
-<code><a href="https://dbeaver.io/" target="_blank"><img width="32" height="32" src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/dbeaver.png"/></a></code>
-&nbsp; 
-<code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/nodejs.png"/></a></code>
-&nbsp; 
-<code><a href="https://www.docker.com/" target="_blank"><img width="32" height="32" src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/docker.png"/></a></code>
-&nbsp; 
-<code><a href="https://aws.amazon.com/pt/" target="_blank"><img width="32" height="32" src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/aws.png"/></a></code>
-&nbsp; 
-<code><a href="https://www.postman.com/" target="_blank"><img width="32" height="32" src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/postman.png"/></a></code>
-&nbsp; 
-<code><a href="https://insomnia.rest/" target="_blank"><img width="32" height="32" src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/insomnia.png"/></a></code>
-&nbsp; 
-<code><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/git.png"/></a></code>
-&nbsp; 
-<code><a href="https://about.gitlab.com/" target="_blank"><img width="32" height="32" src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/gitlab.png"/></a></code>
-&nbsp; 
-<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/intellij.png"/></a></code>
-&nbsp; 
-<code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/vs.png"/></a></code>
-</div>
-
------
-
-<img height="20" alt="GIF" src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
-
-<div>
-<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabriel-Gandra&theme=github_dark"/>
-<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gabriel-Gandra&theme=github_dark"/> -->
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gabriel-Gandra&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gabriel-Gandra&theme=github_dark"/>
-</div>
-
------
-
-<div>
-<div>
 <details>
-<summary><img height="20" alt="GIF" src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/spotify.gif?raw=true"/> Gabriel's Spotify Data</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=315wxb3gkvxvtiqzvc2u7zdejq6a" alt="Data Card for Spotify">
+<summary><b>🎮 Jogos no Roblox (hobby)</b></summary>
+<br/>
+
+| Jogo | Gênero | |
+|---|---|---|
+| **Caos Burger** | Terror · de dia um hipermercado na neblina, à noite o drive‑thru | [Jogar](https://www.roblox.com/pt/games/82373635262098/Caos-Burger) |
+| **Hungry Lake** | Pesca e terror · 1 a 6 jogadores | [Jogar](https://www.roblox.com/pt/games/73925819065394/Hungry-Lake-Horror-Fishing) |
+| **Echoes of the Deep** | Sobrevivência · esquadrão de 1 a 4 em minas abandonadas | [Jogar](https://www.roblox.com/pt/games/73423319870769/Echoes-of-the-Deep-Abyss-Chronicles) |
+
 </details>
-</div>
-<div>
-<!--- <a href="https://twitter.com/Gabriel-Gandra" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=Gabriel-Gandra"/></a> -->
-<a href="https://www.last.fm/pt/user/Gabriel-Gandra" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=Gabriel-Gandra&width=400"/></a>
-<div>
-<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=315wxb3gkvxvtiqzvc2u7zdejq6a&cover_image=true&theme=default"/> &nbsp; &nbsp; 
-<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=315wxb3gkvxvtiqzvc2u7zdejq6a&count=10"/>
-</div>
-</div>
 
------
+<br/>
 
-<div>
-<table align="right">
-<tr>
- <td align="center" colspan="1"></td>
-</tr> 
-<tr>
-<td><a href="https://pythonmg.github.io/" target="_blank"><img src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/pythonmg.png?raw=true" width="70px" height="70px"/></a></td>
-</tr>
-<tr>
- <td align="center" colspan="1"></td>
-</tr> 
-</table>
-<img src="https://img.shields.io/badge/Python-Aspira-blue?logo=Python"/>
-<img src="https://img.shields.io/badge/Java-Dev-blue"/>
-<img src="https://img.shields.io/badge/C-Enthusiast-blue"/>
-<img src="https://img.shields.io/badge/TDD-Advocate-blue"/>
-<img src="https://img.shields.io/badge/Clean%20Code-Evangelist-blue"/>
-<img src="https://img.shields.io/badge/Open%20Source-Lover-blue?logo=opensourceinitiative"/>
-<br />
-<img src="https://img.shields.io/badge/Flask-Dev-blue?logo=Flask"/>
-<img src="https://img.shields.io/badge/FastAPI-Dev-blue?logo=FastAPI"/>
- <img src="https://img.shields.io/badge/JavaScript-Dev-blue?logo=javascript"/>
-<img src="https://img.shields.io/badge/Node.js-Dev-blue?logo=Node.js"/>
-<img src="https://img.shields.io/badge/Next.js-Dev-blue?logo=Next.js"/>
-<img src="https://img.shields.io/badge/AWS-Dev-blue?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Docker-Dev-blue?logo=docker"/>
-<img src="https://img.shields.io/badge/Grafana-Dev-blue?logo=grafana"/>
-<img src="https://img.shields.io/badge/New%20Relic-Dev-blue?logo=newrelic"/>
-<a href="https://github.com/pythonmg" target="_blank"><img alt="Python-MG" src="https://img.shields.io/badge/Siga%20a%20comunidade%20mineira%20de%20python%3A-Python--MG-blue?logo=Python"/></a>
-<img src="https://img.shields.io/badge/OS-macOS-informational?logo=apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/OS-Linux-informational?logo=linux&logoColor=white"/>
-<br />
-<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=Gabriel-Gandra"/>
-<img alt="Forks" src="https://img.shields.io/github/forks/Gabriel-Gandra/Gabriel-Gandra?logo=git"/>
-<a href="https://stars.github.com/nominate/" target="_blank"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20useful&color=blue"/></a>
-<br />
-<img alt="Followers" src="https://img.shields.io/github/followers/Gabriel-Gandra?style=social"/>
-<img alt="Stars" src="https://img.shields.io/github/stars/Gabriel-Gandra?style=social"/>
+## 🎓 Formação
+
+| | Curso | Instituição | Período |
+|---|---|---|---|
+| 🎓 | Bacharelado em Ciência da Computação | UniBH | 2025 – prev. 2027/28 |
+| 📱 | Técnico em Informática · Desenvolvimento Mobile | Cotemig | 2021 – 2022 |
+| 🤝 | Voluntário no Code Club (ensino de programação) | Cotemig | 2022 |
+| 🇪🇸 | Certificado de Espanhol | Colégio Espanhol Santa Maria Minas | 2020 |
+
+<br/>
+
+## 📈 Atividade
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabriel-Gandra/Gabriel-Gandra/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabriel-Gandra/Gabriel-Gandra/output/github-snake.svg"/>
+  <img alt="Animação das contribuições no GitHub" src="https://raw.githubusercontent.com/Gabriel-Gandra/Gabriel-Gandra/output/github-snake-dark.svg" width="100%"/>
+</picture>
 </div>
 
------
+<br/>
 
-<div>
-<a href="https://www.linkedin.com/in/Gabriel-Gandra/" target="_blank"><img alt"Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:davidson.afg@gmail.com" target="_blank"><img alt"Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://wa.me/5531992259540" target="_blank"><img alt"WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://discordapp.com/users/287784703963168768" target="_blank"><img alt"Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://open.spotify.com/user/315wxb3gkvxvtiqzvc2u7zdejq6a?si=45c49575a1ba4cb7&nd=1&dlsi=7f9a4570be91417c" target="_blank"><img alt"Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
-<a href="https://www.instagram.com/davidson_faria/" target="_blank"><img alt"Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</div>
+<div align="center">
 
-<div>
-<img align="center" alt="Footer" width="1200px" height="20px" src="https://github.com/Gabriel-Gandra/Gabriel-Gandra/blob/main/img/footer-gray.gif?raw=true"/>
+**Tem uma vaga ou um projeto?** Vamos conversar.
+
+<a href="mailto:contatogabrielgandra@gmail.com"><img src="https://img.shields.io/badge/contatogabrielgandra%40gmail.com-0b1a33?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="E-mail"/></a>
+<a href="https://gabrielgandra.vercel.app"><img src="https://img.shields.io/badge/gabrielgandra.vercel.app-0b1a33?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/></a>
+
+<img src="./assets/footer.svg" alt="" width="100%"/>
+
 </div>
